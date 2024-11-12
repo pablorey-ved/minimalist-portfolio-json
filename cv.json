@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Pablo Rey Ramos",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
     "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "phone": "+34 640245148",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41008",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "España"
     },

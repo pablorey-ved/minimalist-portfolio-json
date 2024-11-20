@@ -45,6 +45,26 @@
       ]
     }
   ],
+  "references": [
+    {
+      "name": "Joaquin Borrego Fernández",
+      "type": "Academic Reference",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "contact": [
+        "Phone: +34611223345",
+        "Email: VY5q8@example.com"
+      ]
+    },
+    {
+      "name": "Alejandro Mármol Romero",
+      "type": "Professional Reference",
+      "position": "DevOps at EDMI Ltd. Spain.",
+      "contact": [
+        "Phone: +34611223344",
+        "Email: Va5q8@example.com"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",

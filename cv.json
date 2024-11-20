@@ -1,68 +1,47 @@
 {
   "basics": {
-    "name": "Joaquin",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Pablo Rey Ramos",
+    "label": "Software Developer",
     "image": "",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "pablo.rey.ramos.03@gmail.com",
+    "phone": "+34 640245148",
+    "url": "",
+    "summary": "I discovered computer science by chance, and I was instantly captivated. Critical, versatile, and strong-willed, with an innate curiosity and a passion for learning. I am enthusiastic, lively and resilient. A lover of problem-solving and achieving goals as part of a team.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41008",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Pablo Rey Ramos",
+        "url": "https://www.linkedin.com/in/pablo-rey-ramos-1b2844256/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "pablo-rey-r03",
+        "url": "https://github.com/pablo-rey-r03"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Guadaltel",
+      "url": "https://www.guadaltel.com/",
+      "position": "Internship",
+      "startDate": "2024-03-18",
+      "endDate": "2024-06-17",
+      "summary": "The first project was a monolithic application in JSF with RichFaces and JBoss Seam, where I implemented various additional features and resolved deployment issues. The second project was a React application that interacted with a Spring API; I developed several API endpoints and React screens. I used Subversion for version control.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
+        "Spring API endpoints",
+        "Solving deployment issues",
+        "React screens",
+        "SQL scripts",
+        "Adding features to JSF application",
+        "Oracle database",
       ]
     }
   ],

@@ -124,30 +124,23 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
@@ -159,7 +152,7 @@
     },
     {
       "name": "Node",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
         "Web development", "Backend", "JavaScript", "Servidor"
       ]
@@ -186,17 +179,73 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "React",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "React",
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "Server", "API", "Android development"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Medium",
+      "keywords": [
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Medium",
+      "keywords": [
+        "Android development", "Jetpack Compose", "UI"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Medium",
+      "keywords": [
+        "Desktop development", "UI", "WPF"
+      ]
+    },
+    {
+      "name": "Angular",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Spring",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "Java Library", "Server"
+      ]
+    },
+    {
+      "name": "JSF",
+      "level": "Medium",
+      "keywords": [
+        "Web development", "Backend", "Java Library", "Server"
+      ]
+    },
+    {
+      "name": "Subversion",
+      "level": "Medium",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Medium",
+      "keywords": [
+        "Bases de Datos", "NoSQL", "Database", "Backend"
       ]
     }
   ],
@@ -211,10 +260,22 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Videogames",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Tom Clancy's Rainbow 6 Siege",
+      "Honkai: Star Rail"
     ]
-  }]
+  }],
+  "projects": [
+    {
+      "name": "Agora",
+      "isActive": true,
+      "description": "Integrated academic project on a web application for organizing and requesting recreational activities.",
+      "highlights": [
+        "7/10 overall score"
+      ],
+      "url": "",
+      "github": "https://github.com/pablo-rey-r03/proyectoIntegradoDAW"
+    }
+  ]
 }

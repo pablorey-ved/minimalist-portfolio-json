@@ -80,11 +80,24 @@
       "endDate": "2022-06-25"
     }
   ],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
   "certificates": [{
     "name": "C1 Advanced",
     "date": "2021-02-19",
     "issuer": "Cambridge Assessment English",
     "url": "https://www.cambridgeenglish.org/exams-and-tests/advanced/"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
   }],
   "skills": [
     {

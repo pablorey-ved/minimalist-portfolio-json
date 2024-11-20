@@ -45,28 +45,6 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
-      "contact": [
-        "Phone: +34611223345",
-        "Email: VY5q8@example.com"
-      ]
-    },
-    {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
-      "contact": [
-        "Phone: +34611223344",
-        "Email: Va5q8@example.com"
-      ]
-    }
-  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
@@ -78,36 +56,35 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
+  "education": [
+    {
+      "institution": "Santa Joaquina de Vedruna",
+      "url": "https://vedrunasevilla.org/",
+      "area": "Higher Technician in Multi-platform application Development",
+      "studyType": "Vocational Training",
+      "startDate": "2024-09-15",
+      "endDate": null
+    },
+    {
+      "institution": "ITEP (MEDAC)/I.E.S. Velázquez",
+      "area": "Higher Technician in Digital design and Web Development",
+      "studyType": "Vocational Training",
+      "startDate": "2022-09-15",
+      "endDate": "2024-06-17"
+    },
+    {
+      "institution": "University of Seville (US)",
+      "area": "Dual Degree in Chemistry + Materials Engineering (2 out of 5 years)",
+      "studyType": "Bachelor",
+      "startDate": "2020-09-18",
+      "endDate": "2022-06-25"
+    }
+  ],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "C1 Advanced",
+    "date": "2021-02-19",
+    "issuer": "Cambridge Assessment English",
+    "url": "https://www.cambridgeenglish.org/exams-and-tests/advanced/"
   }],
   "skills": [
     {
